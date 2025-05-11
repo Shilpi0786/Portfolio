@@ -1,0 +1,96 @@
+---
+title: "Shilpi Kumari Portfolio"
+format: html
+theme: cosmo
+page-layout: full
+
+---
+
+
+# 👋 Hi, I'm Shilpi Kumari
+
+**Cloud Engineer | Senior Network Analyst | MBA Candidate**
+
+Welcome to my GitHub profile! I'm a passionate Cloud Engineer and Senior Network Analyst with a strong background in IT. Here's a bit about me:
+
+---
+
+# 🎓 Education
+
+- **MBA**  
+  *University Canada West, Expected June 2025*
+
+- **Bachelor of Computer Application (BCA)**  
+  *Patna University*
+
+---
+
+## 💼 Experience
+
+### Associate Consultant – Atos (2021–2023)  
+- Designed and deployed scalable cloud solutions across AWS for enterprise clients in telecom and retail.
+- Integrated SageMaker for building, training, and deploying ML models within serverless infrastructure.
+- Managed hybrid client network solutions of multi-vendor environments(Cisco, Juniper, FortiGate, F5)  
+- Mentored new hires, managed multi-client SLAs  
+
+### Process Specialist – Infosys (2019–2021)  
+
+- Partnered with cross-functional teams to conduct thorough discovery and implementation of
+fibre networks to sites.
+- Identified and resolved process issues to drive optimal workflow and business growth.
+- Developed SOPs and resolved telecom operations  
+
+### Administrator – Wipro (2015–2019)  
+- Managed LAN/WAN infrastructure and executed scheduled patching of routers, firewalls, and switches.
+- Configure and onbarded new switches and router on clinet demands for new site extensions and support.
+
+---
+
+## 🌐 Projects
+
+### 🟢 Static Resume Website on AWS 
+
+- **Tools:** Deployment using AWS S3, Lambda, API Gateway, DynamoDB  
+- [Live Demo](http://ucw-resume-site.s3-website-us-east-1.amazonaws.com)
+
+*** Detailed explanation in this file *** -https://github.com/Shilpi0786/Shilpi0786/blob/main/Serverless%20Website%20Deployment.docx
+
+### 🟢 AWS Web Server Hosting for Tour Planning  
+- **Tools:** EC2, RDS, VPC, Security Groups
+
+- *** Detailed explanation of configuation and deployment attached in file *** - 
+
+https://github.com/Shilpi0786/Shilpi0786/blob/main/Web%20Application%20Deployment%20Part%201%20.docx
+
+https://github.com/Shilpi0786/Shilpi0786/blob/main/Web%20Application%20Deployment%20-Part%202.docx
+
+---
+
+## 🧠 Skills
+
+**Cloud & Network:** AWS, EC2, Lambda, Cisco Switches & Routers, Juniper, Meraki, Firewalls (Fortigate & Palo-Alto), Cisco Meraki , Data-Centre (Nexus switches 5500,7700).
+
+**Tools & Tech:** Python, SQL, Tableau, Linux , ML (for data analysis)
+
+**Soft Skills:** Project Management, Communication, Problem Solving , Multi-tasking
+
+---
+
+## 📜 Certifications
+
+- CCNA | Cisco Certified Network Associate  
+- Cisco Meraki Black Belt  
+- AWS Cloud Practitioner 
+- Digital Marketing
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shilpi-kumari2/)
+- [Instagram](https://www.instagram.com/shilpi_dreamr/)
+
+
+
+
+

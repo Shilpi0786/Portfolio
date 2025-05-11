@@ -1,0 +1,38 @@
+
+---
+title: "Contact Me"
+format: html
+---
+
+# 📬 Contact Me
+
+I'd love to hear from you! Whether it's a question, collaboration opportunity, or feedback — feel free to reach out through any of the channels below.
+
+---
+
+## 📧 Email
+
+**kr.shilpi21@gmail.com**
+
+---
+
+## 💼 LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shilpi-kumari2/)
+
+---
+
+## 🌐 Portfolio
+
+[Visit my Portfolio](index.qmd)
+
+---
+
+## 📍 Location
+
+20686 , Eastleigh Crescent , Langley , V3A0M4 , BC. 
+
+---
+
+> 🔒 *Your privacy is important. Your contact info will never be shared.*
+
