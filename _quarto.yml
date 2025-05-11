@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "My Portfolio"
@@ -26,9 +27,8 @@ format:
     toc: true
     code-link: true
     smooth-scroll: true
-    
-
-
+  
+  
 
   
 
