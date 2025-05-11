@@ -17,7 +17,7 @@ I’m a Cloud & Network Security Engineer and IT Administrator passionate about 
 
 ## Portfolio Link ##
 
-- Check out my [Portfolio Website](https://shilpi0786.github.io/Portfolio/) to see my projects and skills !
+- Check out my [Portfolio Website](https://shilpi0786.github.io/Shilpi0786/) to see my projects and skills !
 
 ## 💼 Portfolio Features
 
