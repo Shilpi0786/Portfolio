@@ -46,3 +46,13 @@ body {
     color: #ffffff;
   }
   
+/* Profile Image Styling */
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; /* Circular image */
+  object-fit: cover;
+  display: block;
+  margin: 20px auto; /* Centering the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

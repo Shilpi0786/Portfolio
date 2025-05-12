@@ -6,6 +6,7 @@ website:
   title: "My Portfolio"
   favicon: images/space1.jpeg
   navbar:
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: Home
