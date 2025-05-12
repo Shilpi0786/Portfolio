@@ -3,6 +3,9 @@ title: "Appendix"
 format: html
 ---
 
+Name - Shilpi Kumari 
+University of Canada West 
+11 May , 2025 
 
 ## Appendix ##
 
@@ -15,7 +18,11 @@ format: html
 
 The LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest.
  
- 
+
+
+## Please find the link to the portfolio posted on GitHub below -
+
+- https://shilpi0786.github.io/Shilpi0786/
  
 ## One-Page MBA Student Portfolio Outline by LLM
 
