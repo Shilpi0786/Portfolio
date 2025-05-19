@@ -1,0 +1,70 @@
+---
+title: "Resume"
+format: html
+---
+
+# My Resume
+
+📄 [Download My Resume (PDF)](files/Shilpi Kumari_Network Engineer_20250515.pdf)
+
+## Professional Summary 
+
+Experienced Network Administrator with over 7 years of experience managing enterprise LAN/WAN operations and multi-vendor device configurations. Demonstrated expertise in implementing robust firewall policies and conducting vulnerability assessments to 
+enhance network security. Successfully collaborated on fibre network projects and optimized workflows for improved operational efficiency. Eager to leverage comprehensive technical skills in routing, switching, and cloud networking to support and advance IT 
+infrastructure environments.
+
+## Experience
+
+### Associate Consultant – Atos (2021–2023)  
+- Designed and deployed scalable cloud solutions across AWS for enterprise clients in telecom and retail,resulting in 20% improvement in application performance/cost savings.
+
+- Managed hybrid client network solutions of multi-vendor environments(Cisco, Juniper, FortiGate, F5),ensuring 95% network uptime and resolving critical issues within critical 4 hours timeframe." 
+
+- Mentored new hires, managed multi-client SLAs ,consistently achieving 99% SLA adherence and improving team efficiency by 20%."
+
+### Process Specialist – Infosys (2019–2021)  
+
+- Partnered with cross-functional teams to conduct thorough discovery and implementation of
+fibre networks to sites,successfully connecting 15 number of sites within 2 months timeframe."
+
+- Identified and resolved process issues to drive optimal workflow and business growth,resulting in 15% improvement in process efficiency/cost savings.
+
+- Developed SOPs and resolved telecom operations ,reducing issue resolution time by 25%."
+
+### Administrator – Wipro (2015–2019)  
+- Managed LAN/WAN infrastructure and executed scheduled patching of routers, firewalls, and switches, reducing security vulnerabilities by 10% and ensuring 95% system uptime."
+
+- Configure and onbarded new switches and router on clinet demands for new site extensions and support,completing an average of 2 new site setups per month/quarter."
+
+## Education
+**MBA**, University Canada West  
+Expected: 2025
+
+**Bachelor’s Degree**, [Bachelors of Computer Application], [Patna University]  
+Graduated: [2015]
+
+## 🧠 Skills
+
+**Cloud & Network:** AWS, EC2, Lambda, Cisco Switches & Routers, Juniper, Meraki, Firewalls (Fortigate & Palo-Alto), Cisco Meraki , Data-Centre (Nexus switches 5500,7700).
+
+**Tools & Tech:** Python, SQL, Tableau, Linux , ML (for data analysis)
+
+**Soft Skills:** Project Management, Communication, Problem Solving , Multi-tasking
+
+## 📜 Certifications
+
+- CCNA | Cisco Certified Network Associate  
+- Cisco Meraki Black Belt  
+- AWS Cloud Practitioner 
+- Digital Marketing
+
+## Languages 
+
+- English (ADVANCED)
+- HINDI (Proficient)
+
+## Volunteer Experience
+
+-Volunteer Coordinator, Local Community Center 
+- Assisted with event planning and community outreach to support local engagement.
+

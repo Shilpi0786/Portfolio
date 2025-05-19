@@ -1,0 +1,24 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# Skills
+
+### Technical Skills
+- Microsoft Excel (Pivot Tables, Analysis)
+- Power BI (basic dashboards)
+- Quarto & Markdown
+- Notion, Trello, Asana
+
+### Soft Skills
+- Team Leadership
+- Cross-Cultural Communication
+- Critical Thinking
+- APA 7th Report Writing
+
+# Certifications
+
+- ✅ Google Digital Marketing & E-commerce  
+- ✅ HubSpot Inbound Marketing  
+- ✅ LinkedIn Learning: Project Management Foundations  

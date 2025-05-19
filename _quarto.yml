@@ -10,26 +10,25 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: Projects.qmd
+        text: Projects
+      - href: Skills.qmd
+        text: Skills
       - href: Contact.qmd
         text: Contact
       - href: Appendix.qmd
-        text:  Appendix 
+        text: Appendix
     background: dark
   page-footer:
     center: "© 2025 Shilpi | All Rights Reserved"
   page-navigation: true
 
-
 format:
-  
   html:
-    theme: darkly  # Optional dark theme base
+    theme: darkly  # Dark theme
     css: styles.css
     toc: true
     code-link: true
     smooth-scroll: true
-  
-  
-
-  
-

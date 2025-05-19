@@ -1,0 +1,107 @@
+---
+title: "Appendix"
+format: html
+---
+
+Name - Shilpi Kumari 
+University of Canada West 
+11 May , 2025 
+
+## Appendix ##
+
+## Portfolio Outline - References 
+
+- https://ankitpakhale.netlify.app/portfolio
+- https://a-coderr.github.io/portfolio-website/#home
+
+## Breif Comment on Portfolio sources and ideas 
+
+The LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest.
+ 
+
+
+## Please find the link to the portfolio posted on GitHub below -
+
+- https://shilpi0786.github.io/Shilpi0786/
+ 
+## One-Page MBA Student Portfolio Outline by LLM
+
+1. Header
+
+Name
+
+MBA Program & School Name
+
+Contact Info (Email, LinkedIn, Phone, optional website or portfolio link)
+
+2. Professional Summary (2–3 lines)
+Concise elevator pitch including industry experience, career focus, and unique strengths.
+
+3. Education
+MBA Program (Include expected graduation date)
+
+Relevant coursework, GPA (if strong), academic honors
+
+4. Key Skills
+Business strategy, data analysis, financial modeling, project management, etc.
+
+Soft skills: leadership, communication, cross-functional collaboration
+
+5. Experience
+Title, Organization, Location, Dates
+
+2–3 bullet points focused on achievements and quantifiable results
+
+Include pre-MBA or internship experience if relevant
+
+6. Projects / Leadership / Certifications
+Consulting projects, case competitions, club leadership, or certifications (e.g., Lean Six Sigma, AWS Certified)
+
+7. Career Interests / Goals (Optional)
+1 line on post-MBA goals or target industries/roles
+
+## 📝 Sample One-Page MBA Student Portfolio (Text Only)
+NELSON JAMES
+MBA Candidate | Schulich School of Business, York University
+📧 nelson.james@email.com | 📞 647-555-1234 | linkedin.com/in/nelsonjames
+
+## Professional Summary
+Results-driven MBA candidate with 7+ years of experience in network security at Fortune 500 firms. Passionate about combining business acumen with cloud technology to deliver scalable, secure enterprise solutions.
+
+## Education
+Schulich School of Business, York University — Toronto, ON
+Master of Business Administration (MBA) | Expected: August 2025
+
+Focus: Technology Management & Strategy
+
+Relevant Coursework: Strategic Management, Cloud Computing, Data Analytics
+
+Dean’s List (2024)
+
+## Key Skills
+
+Cloud Architecture • Cybersecurity Risk Management • Data Analysis (Excel, Tableau)
+Project Leadership • Financial Modeling • Stakeholder Communication • Agile & Scrum
+
+## Professional Experience
+ 
+ Software Engineer – Wipro Technologies, Toronto, ON | 2017–2023
+
+Led cybersecurity assessments for enterprise clients, reducing vulnerability risk by 35%.
+
+Managed cross-functional teams to implement security upgrades across 10+ global locations.
+
+Delivered client workshops on secure network practices, improving compliance scores by 20%.
+
+## Leadership & Certifications
+
+AWS Certified Solutions Architect – Associate (2025)
+
+President, MBA Technology Club – Organized panels with industry leaders and alumni
+
+Team Lead, MBA Case Competition Finalist (Top 5 out of 120 teams)
+
+
+## Career Interests
+
+Enterprise Cloud Security Architect | Digital Transformation Consulting | Technology Strategy

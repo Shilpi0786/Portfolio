@@ -1,0 +1,53 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# 💻 Technical Skills
+
+## 🌐 Cloud & Networking
+- **Cloud Platforms**: AWS (EC2, Lambda), Cisco Meraki
+- **Networking Devices**: Cisco Switches & Routers, Juniper, Nexus Switches (5500, 7700)
+- **Switching Concepts**: VLANs, STP (Spanning Tree Protocol), EtherChannel, VTP
+- **Routing Protocols**: OSPF, EIGRP, BGP, Static Routing
+- **Firewall Technologies**
+
+  - FortiGate (policy-based & profile-based rules)
+  - Palo Alto (App-ID, NAT, Zone-based security)
+  - Cisco ASA & Meraki Firewalls
+
+## 🛠️ Tools & Technologies
+
+- **Programming**: Python
+- **Database**: SQL
+- **Data Visualization**: Tableau
+- **Operating Systems**: Linux (Bash, system administration)
+- **Machine Learning**: Applied ML for data analysis
+
+---
+
+# 🧠 Soft Skills
+
+- 🤝 Project Management
+- 💬 Communication (written & verbal)
+- 🧩 Critical Thinking & Problem Solving
+- 🔄 Multi-tasking & Adaptability
+
+---
+
+# 📜 Certifications
+**Networking:**
+-  **CCNA – Cisco Certified Network Associate**
+
+**Digital Marketing:**
+-  **Certified Digital Marketing Professional – DMI**
+
+**Cloud:**
+-  **AWS Cloud Practiconer**
+
+**Project Management:**
+- **LinkedIn Learning: Project Management Foundations**
+
+---
+
+Want to see my project experience? Explore the [Projects Page](projects.qmd).

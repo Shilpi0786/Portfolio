@@ -151,7 +151,7 @@
     "href": "Contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "I’d love to hear from you! Whether it’s a question, collaboration opportunity, or feedback — feel free to reach out through any of the channels below.\n\n\n\nkr.shilpi21@gmail.com\n\n\n\n\nConnect with me on LinkedIn\n\n\n\n\nVisit my Portfolio\n\n\n\n\n20686 , Eastleigh Crescent , Langley , V3A0M4 , BC.\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
+    "text": "I’d love to hear from you! Whether it’s a question, collaboration opportunity, or feedback — feel free to reach out through any of the channels below.\n\n\n\n+1 (778) 990-2716\n\n\n\n\nkr.shilpi21@gmail.com\n\n\n\n\nConnect with me on LinkedIn\n\n\n\n\nVisit my Portfolio\n\n\n\n\n20686 , Eastleigh Crescent , Langley , V3A0M4 , BC.\n\n\n\n\n\n Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
   },
   {
     "objectID": "Contact.html#email",
@@ -179,7 +179,7 @@
     "href": "Contact.html#location",
     "title": "Contact Me",
     "section": "",
-    "text": "20686 , Eastleigh Crescent , Langley , V3A0M4 , BC.\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
+    "text": "20686 , Eastleigh Crescent , Langley , V3A0M4 , BC."
   },
   {
     "objectID": "index.html#experience",
@@ -207,13 +207,167 @@
     "href": "index.html#certifications",
     "title": "Shilpi Kumari Portfolio",
     "section": "📜 Certifications",
-    "text": "📜 Certifications\n\nCCNA | Cisco Certified Network Associate\n\nCisco Meraki Black Belt\n\nAWS Cloud Practitioner\nDigital Marketing"
+    "text": "📜 Certifications\n\nCCNA | Cisco Certified Network Associate\n\nCisco Meraki Black Belt\n\nAWS Cloud Practitioner\nDigital Marketing | DMI"
   },
   {
     "objectID": "index.html#connect-with-me",
     "href": "index.html#connect-with-me",
     "title": "Shilpi Kumari Portfolio",
     "section": "🌐 Connect with Me",
-    "text": "🌐 Connect with Me\n\nLinkedIn\nInstagram"
+    "text": "🌐 Connect with Me\n\nLinkedIn\nInstagram\n\n\n💬 Prefer a pop-up?\nClick the floating button in the bottom corner instead!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "📄 Download My Resume (PDF)\n\n\nExperienced Network Administrator with over 7 years of experience managing enterprise LAN/WAN operations and multi-vendor device configurations. Demonstrated expertise in implementing robust firewall policies and conducting vulnerability assessments to enhance network security. Successfully collaborated on fibre network projects and optimized workflows for improved operational efficiency. Eager to leverage comprehensive technical skills in routing, switching, and cloud networking to support and advance IT infrastructure environments.\n\n\n\n\n\n\nDesigned and deployed scalable cloud solutions across AWS for enterprise clients in telecom and retail,resulting in 20% improvement in application performance/cost savings.\nManaged hybrid client network solutions of multi-vendor environments(Cisco, Juniper, FortiGate, F5),ensuring 95% network uptime and resolving critical issues within critical 4 hours timeframe.”\nMentored new hires, managed multi-client SLAs ,consistently achieving 99% SLA adherence and improving team efficiency by 20%.”\n\n\n\n\n\nPartnered with cross-functional teams to conduct thorough discovery and implementation of fibre networks to sites,successfully connecting 15 number of sites within 2 months timeframe.”\nIdentified and resolved process issues to drive optimal workflow and business growth,resulting in 15% improvement in process efficiency/cost savings.\nDeveloped SOPs and resolved telecom operations ,reducing issue resolution time by 25%.”\n\n\n\n\n\nManaged LAN/WAN infrastructure and executed scheduled patching of routers, firewalls, and switches, reducing security vulnerabilities by 10% and ensuring 95% system uptime.”\nConfigure and onbarded new switches and router on clinet demands for new site extensions and support,completing an average of 2 new site setups per month/quarter.”\n\n\n\n\n\nMBA, University Canada West\nExpected: 2025\nBachelor’s Degree, [Bachelors of Computer Application], [Patna University]\nGraduated: [2015]\n\n\n\nCloud & Network: AWS, EC2, Lambda, Cisco Switches & Routers, Juniper, Meraki, Firewalls (Fortigate & Palo-Alto), Cisco Meraki , Data-Centre (Nexus switches 5500,7700).\nTools & Tech: Python, SQL, Tableau, Linux , ML (for data analysis)\nSoft Skills: Project Management, Communication, Problem Solving , Multi-tasking\n\n\n\n\nCCNA | Cisco Certified Network Associate\n\nCisco Meraki Black Belt\n\nAWS Cloud Practitioner\nDigital Marketing\n\n\n\n\n\nEnglish (ADVANCED)\nHINDI (Proficient)\n\n\n\n\n-Volunteer Coordinator, Local Community Center - Assisted with event planning and community outreach to support local engagement."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA, University Canada West\nExpected: 2025\nBachelor’s Degree, [Bachelors of Computer Application], [Patna University]\nGraduated: [2015]"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Designed and deployed scalable cloud solutions across AWS for enterprise clients in telecom and retail,resulting in 20% improvement in application performance/cost savings.\nManaged hybrid client network solutions of multi-vendor environments(Cisco, Juniper, FortiGate, F5),ensuring 95% network uptime and resolving critical issues within critical 4 hours timeframe.”\nMentored new hires, managed multi-client SLAs ,consistently achieving 99% SLA adherence and improving team efficiency by 20%.”\n\n\n\n\n\nPartnered with cross-functional teams to conduct thorough discovery and implementation of fibre networks to sites,successfully connecting 15 number of sites within 2 months timeframe.”\nIdentified and resolved process issues to drive optimal workflow and business growth,resulting in 15% improvement in process efficiency/cost savings.\nDeveloped SOPs and resolved telecom operations ,reducing issue resolution time by 25%.”\n\n\n\n\n\nManaged LAN/WAN infrastructure and executed scheduled patching of routers, firewalls, and switches, reducing security vulnerabilities by 10% and ensuring 95% system uptime.”\nConfigure and onbarded new switches and router on clinet demands for new site extensions and support,completing an average of 2 new site setups per month/quarter.”"
+  },
+  {
+    "objectID": "resume.html#skills-summary",
+    "href": "resume.html#skills-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Project Management, Strategic Planning, Collaboration\n\nTools: Excel, PowerPoint, Notion, Asana"
+  },
+  {
+    "objectID": "Skills.html",
+    "href": "Skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Cloud Platforms: AWS (EC2, Lambda), Cisco Meraki\nNetworking Devices: Cisco Switches & Routers, Juniper, Nexus Switches (5500, 7700)\nSwitching Concepts: VLANs, STP (Spanning Tree Protocol), EtherChannel, VTP\nRouting Protocols: OSPF, EIGRP, BGP, Static Routing\nFirewall Technologies\n\nFortiGate (policy-based & profile-based rules)\nPalo Alto (App-ID, NAT, Zone-based security)\nCisco ASA & Meraki Firewalls\n\n\n\n\n\n\nProgramming: Python\nDatabase: SQL\nData Visualization: Tableau\nOperating Systems: Linux (Bash, system administration)\nMachine Learning: Applied ML for data analysis"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Organizational Diagnosis\nTools Used: PESTELE, SWOT, Stakeholder Analysis Outcome: Proposed a strategic framework to enhance host engagement and brand visibility.\n\n\n\nRole: Project Manager\nWork: Built a Work Breakdown Structure and timeline for a cold-pressed organic juice launch.\nResult: Proposed cross-channel strategies including events, digital ads, and loyalty programs.\n\n\n\n\n\nDescription: A serverless personal resume website deployed on AWS using S3 for hosting, Lambda for potential dynamic features, API Gateway for external interactions, and DynamoDB for data storage.\nTools: Deployment using AWS S3, Lambda, API Gateway, DynamoDB\n\nDetailed explanation in this file * link\n\n\n\n\nDescription: An AWS infrastructure setup for hosting a tour planning web application, leveraging EC2 for compute, RDS for database management, VPC for network isolation, and Security Groups for access control.\nTools: EC2, RDS, VPC, Security Groups\n\nDetailed explanation of configuation and deployment attached in file -\nPart 1\nPart 2\n\n\n\n\nA data analysis project using Python and machine learning models (KNN and Logistic Regression) to analyze customer data and predict churn probability.\nTools: Google Colab, Python, Scikit-learn (KNN, Logistic Regression), Pandas, NumPy"
+  },
+  {
+    "objectID": "Projects.html#popin-event-host-collaboration-strategy",
+    "href": "Projects.html#popin-event-host-collaboration-strategy",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Organizational Diagnosis\nTools Used: PESTELE, SWOT, Stakeholder Analysis Outcome: Proposed a strategic framework to enhance host engagement and brand visibility."
+  },
+  {
+    "objectID": "Projects.html#unsweetened-juice-product-launch",
+    "href": "Projects.html#unsweetened-juice-product-launch",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Project Manager\nWork: Built a Work Breakdown Structure and timeline for a cold-pressed organic juice launch.\nResult: Proposed cross-channel strategies including events, digital ads, and loyalty programs."
+  },
+  {
+    "objectID": "Projects.html#digital-marketing-simulation",
+    "href": "Projects.html#digital-marketing-simulation",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Digital Strategy\nWork: Optimized SEO, PPC, and social media strategy in a live marketing simulation.\nResult: Top 5% ranking based on customer reach and ROI performance."
+  },
+  {
+    "objectID": "Skills.html#cloud-networking",
+    "href": "Skills.html#cloud-networking",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Cloud Platforms: AWS (EC2, Lambda), Cisco Meraki\nNetworking Devices: Cisco Switches & Routers, Juniper, Nexus Switches (5500, 7700)\nSwitching Concepts: VLANs, STP (Spanning Tree Protocol), EtherChannel, VTP\nRouting Protocols: OSPF, EIGRP, BGP, Static Routing\nFirewall Technologies\n\nFortiGate (policy-based & profile-based rules)\nPalo Alto (App-ID, NAT, Zone-based security)\nCisco ASA & Meraki Firewalls"
+  },
+  {
+    "objectID": "Skills.html#tools-technologies",
+    "href": "Skills.html#tools-technologies",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Programming: Python\nDatabase: SQL\nData Visualization: Tableau\nOperating Systems: Linux (Bash, system administration)\nMachine Learning: Applied ML for data analysis"
+  },
+  {
+    "objectID": "Projects.html#technical-projects",
+    "href": "Projects.html#technical-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: A serverless personal resume website deployed on AWS using S3 for hosting, Lambda for potential dynamic features, API Gateway for external interactions, and DynamoDB for data storage.\nTools: Deployment using AWS S3, Lambda, API Gateway, DynamoDB\n\nDetailed explanation in this file * link\n\n\n\n\nDescription: An AWS infrastructure setup for hosting a tour planning web application, leveraging EC2 for compute, RDS for database management, VPC for network isolation, and Security Groups for access control.\nTools: EC2, RDS, VPC, Security Groups\n\nDetailed explanation of configuation and deployment attached in file -\nPart 1\nPart 2\n\n\n\n\nA data analysis project using Python and machine learning models (KNN and Logistic Regression) to analyze customer data and predict churn probability.\nTools: Google Colab, Python, Scikit-learn (KNN, Logistic Regression), Pandas, NumPy"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Experienced Network Administrator with over 7 years of experience managing enterprise LAN/WAN operations and multi-vendor device configurations. Demonstrated expertise in implementing robust firewall policies and conducting vulnerability assessments to enhance network security. Successfully collaborated on fibre network projects and optimized workflows for improved operational efficiency. Eager to leverage comprehensive technical skills in routing, switching, and cloud networking to support and advance IT infrastructure environments."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Cloud & Network: AWS, EC2, Lambda, Cisco Switches & Routers, Juniper, Meraki, Firewalls (Fortigate & Palo-Alto), Cisco Meraki , Data-Centre (Nexus switches 5500,7700).\nTools & Tech: Python, SQL, Tableau, Linux , ML (for data analysis)\nSoft Skills: Project Management, Communication, Problem Solving , Multi-tasking"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "CCNA | Cisco Certified Network Associate\n\nCisco Meraki Black Belt\n\nAWS Cloud Practitioner\nDigital Marketing"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "",
+    "text": "English (ADVANCED)\nHINDI (Proficient)"
+  },
+  {
+    "objectID": "sss.html",
+    "href": "sss.html",
+    "title": "Resume | Shilpi Kumari",
+    "section": "",
+    "text": "Hi, I’m Shilpi Kumari\n\n\nCloud Engineer | Network Analyst | MBA Candidate\n\n\n\n\n\n🎓 Education\n\n\n\nMBA – University Canada West (Expected June 2025)\n\n\nBCA – Patna University\n\n\n\n\n\n\n🧠 Skills\n\n\n&lt;div&gt;\n  &lt;h3&gt;Cloud & Networking&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;AWS, EC2, Lambda&lt;/li&gt;\n    &lt;li&gt;Cisco, Juniper, Meraki&lt;/li&gt;\n    &lt;li&gt;Switching & Routing (OSPF, BGP, EIGRP)&lt;/li&gt;\n    &lt;li&gt;Firewalls: Fortigate, Palo-Alto&lt;/li&gt;\n    &lt;li&gt;Nexus Switches 5500/7700&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Tools & Soft Skills&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;Python, SQL, Linux, Tableau, ML&lt;/li&gt;\n    &lt;li&gt;Project Management&lt;/li&gt;\n    &lt;li&gt;Problem Solving & Communication&lt;/li&gt;\n    &lt;li&gt;Multitasking & Team Collaboration&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n\n\n\n📜 Certifications\n\n\n\nCCNA – Cisco Certified Network Associate\n\n\nCisco Meraki Black Belt\n\n\nAWS Cloud Practitioner\n\n\nDMI – Digital Marketing Institute\n\n\n\n\n\n📄 Download Resume (PDF)\n\n\n\n\nConnect: LinkedIn | Instagram\n\n\n© 2025 Shilpi Kumari | All Rights Reserved"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shilpi Kumari Portfolio",
+    "section": "",
+    "text": "Cloud Engineer | Network Analyst | MBA Candidate"
+  },
+  {
+    "objectID": "index.html#cloud-networking",
+    "href": "index.html#cloud-networking",
+    "title": "Shilpi Kumari Portfolio",
+    "section": "☁️ Cloud & Networking",
+    "text": "☁️ Cloud & Networking\nAWS, EC2, Lambda\n\nCisco Switches & Routers, Juniper, Meraki\n\nSwitching & Routing Protocols: OSPF, BGP, EIGRP\n\nFirewalls: Fortigate, Palo-Alto\n\nData Centre: Nexus 5500 & 7700 Series\n\n&lt;/ul&gt;"
+  },
+  {
+    "objectID": "Contact.html#phone-whatsapp",
+    "href": "Contact.html#phone-whatsapp",
+    "title": "Contact Me",
+    "section": "",
+    "text": "+1 (778) 990-2716"
+  },
+  {
+    "objectID": "Contact.html#contact-me-1",
+    "href": "Contact.html#contact-me-1",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "-Volunteer Coordinator, Local Community Center - Assisted with event planning and community outreach to support local engagement."
   }
 ]

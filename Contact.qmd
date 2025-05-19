@@ -10,6 +10,11 @@ I'd love to hear from you! Whether it's a question, collaboration opportunity, o
 
 ---
 
+## 📱 Phone & WhatsApp  
++1 (778) 990-2716
+
+---
+
 ## 📧 Email
 
 **kr.shilpi21@gmail.com**
@@ -34,5 +39,43 @@ I'd love to hear from you! Whether it's a question, collaboration opportunity, o
 
 ---
 
+## 📬 Contact Me
+
+<form
+  action="https://formspree.io/f/mdkgjnvv"
+  method="POST"
+  style="max-width: 500px; margin: 1rem 0; font-family: sans-serif;"
+>
+  <label for="email" style="display:block; margin-top: 1em;">
+    Your Email:
+  </label>
+  <input
+    type="email"
+    id="email"
+    name="email"
+    required
+    placeholder="you@example.com"
+    style="width: 100%; padding: 8px; margin-top: 4px;"
+  />
+
+  <label for="message" style="display:block; margin-top: 1em;">
+    Your Message:
+  </label>
+  <textarea
+    id="message"
+    name="message"
+    rows="5"
+    required
+    placeholder="Type your message here..."
+    style="width: 100%; padding: 8px; margin-top: 4px;"
+  ></textarea>
+
+  <button
+    type="submit"
+    style="margin-top: 1em; padding: 10px 20px; background-color: #007bff; color: white; border: none; cursor: pointer;"
+  >
+    Send
+  </button>
+</form>
 > 🔒 *Your privacy is important. Your contact info will never be shared.*
 

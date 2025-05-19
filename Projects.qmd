@@ -1,0 +1,55 @@
+---
+title: "Projects"
+format: html
+---
+
+# Business Projects & Case Studies
+
+## 🎯 PopIn Event Host Collaboration Strategy
+**Course:** Organizational Diagnosis  
+**Tools Used:** PESTELE, SWOT, Stakeholder Analysis 
+**Outcome:** Proposed a strategic framework to enhance host engagement and brand visibility.
+
+## 🧃 Unsweetened Juice Product Launch
+**Role:** Project Manager   
+**Work:** Built a Work Breakdown Structure and timeline for a cold-pressed organic juice launch.  
+**Result:** Proposed cross-channel strategies including events, digital ads, and loyalty programs.
+
+
+## 🌐 Technical Projects
+
+### 🟢 Static Resume Website on AWS 
+
+
+**Description:** A serverless personal resume website deployed on AWS using S3 for hosting, Lambda for potential dynamic features, API Gateway for external interactions, and DynamoDB for data storage.
+
+**Tools:** Deployment using AWS S3, Lambda, API Gateway, DynamoDB  
+
+
+* Detailed explanation in this file * [link](https://github.com/Shilpi0786/Shilpi0786/blob/main/Serverless%20Website%20Deployment.docx
+)
+
+### 🟢 AWS Web Server Hosting for Tour Planning  
+
+
+**Description:** An AWS infrastructure setup for hosting a tour planning web application, leveraging EC2 for compute, RDS for database management, VPC for network isolation, and Security Groups for access control.
+
+**Tools:** EC2, RDS, VPC, Security Groups
+
+-  Detailed explanation of configuation and deployment attached in file  -
+
+- [Part 1](https://github.com/Shilpi0786/Shilpi0786/blob/main/Web%20Application%20Deployment%20Part%201%20.docx
+)
+
+- [Part 2](https://github.com/Shilpi0786/Shilpi0786/blob/main/Web%20Application%20Deployment%20-Part%202.docx
+)
+
+### 🟢  Customer Churn Analysis Using KNN and Logistic Regressions
+
+A data analysis project using Python and machine learning models (KNN and Logistic Regression) to analyze customer data and predict churn probability.
+
+**Tools:** Google Colab, Python, Scikit-learn (KNN, Logistic Regression), Pandas, NumPy
+
+
+- [Preview](https://github.com/Shilpi0786/Shilpi0786/blob/main/projects/Customer_Churn_Analysis_using_KNN_and_Logistic_Regression.ipynb)
+---

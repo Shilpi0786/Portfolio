@@ -1,0 +1,76 @@
+---
+title: "Resume | Shilpi Kumari"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
+---
+
+<!-- HERO SECTION -->
+<section class="hero-section">
+  <img src="images/logo.png" class="logo">
+  <h1>Hi, I'm <span class="highlight">Shilpi Kumari</span></h1>
+  <p>Cloud Engineer | Network Analyst | MBA Candidate</p>
+</section>
+
+<!-- EDUCATION -->
+<section class="content-section">
+  <h2>🎓 Education</h2>
+  <ul>
+    <li><strong>MBA</strong> – University Canada West (Expected June 2025)</li>
+    <li><strong>BCA</strong> – Patna University</li>
+  </ul>
+</section>
+
+<!-- SKILLS -->
+<section class="content-section alt">
+  <h2>🧠 Skills</h2>
+  <div class="grid-2">
+    <div>
+      <h3>Cloud & Networking</h3>
+      <ul>
+        <li>AWS, EC2, Lambda</li>
+        <li>Cisco, Juniper, Meraki</li>
+        <li>Switching & Routing (OSPF, BGP, EIGRP)</li>
+        <li>Firewalls: Fortigate, Palo-Alto</li>
+        <li>Nexus Switches 5500/7700</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Tools & Soft Skills</h3>
+      <ul>
+        <li>Python, SQL, Linux, Tableau, ML</li>
+        <li>Project Management</li>
+        <li>Problem Solving & Communication</li>
+        <li>Multitasking & Team Collaboration</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- CERTIFICATIONS -->
+<section class="content-section">
+  <h2>📜 Certifications</h2>
+  <ul>
+    <li>CCNA – Cisco Certified Network Associate</li>
+    <li>Cisco Meraki Black Belt</li>
+    <li>AWS Cloud Practitioner</li>
+    <li>DMI – Digital Marketing Institute</li>
+  </ul>
+</section>
+
+<!-- DOWNLOAD RESUME -->
+<section class="download-section">
+  <a href="files/Shilpi_Resume.pdf" download class="download-btn">📄 Download Resume (PDF)</a>
+</section>
+
+<!-- CONNECT -->
+<section class="footer-section">
+  <p>
+    Connect: 
+    <a href="https://www.linkedin.com/in/shilpi-kumari2/" target="_blank">LinkedIn</a> |
+    <a href="https://www.instagram.com/shilpi_dreamr/" target="_blank">Instagram</a>
+  </p>
+  <p>© 2025 Shilpi Kumari | All Rights Reserved</p>
+</section>
