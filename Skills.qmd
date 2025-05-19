@@ -50,4 +50,4 @@ format: html
 
 ---
 
-Want to see my project experience? Explore the [Projects Page](projects.qmd).
+Want to see my project experience? Explore the [Projects Page](https://shilpi0786.github.io/Shilpi0786/Projects.html)

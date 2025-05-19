@@ -21,11 +21,11 @@
     "text": "Portfolio Outline - References\n\nhttps://ankitpakhale.netlify.app/portfolio\nhttps://a-coderr.github.io/portfolio-website/#home"
   },
   {
-    "objectID": "Appendix.html#breif-comment-on-portfolio-sources-and-ideas",
-    "href": "Appendix.html#breif-comment-on-portfolio-sources-and-ideas",
+    "objectID": "Appendix.html#annoated-llm-response-comment",
+    "href": "Appendix.html#annoated-llm-response-comment",
     "title": "Appendix",
-    "section": "Breif Comment on Portfolio sources and ideas",
-    "text": "Breif Comment on Portfolio sources and ideas\nThe LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest."
+    "section": "Annoated LLM Response Comment",
+    "text": "Annoated LLM Response Comment\nI have ensured authenticity and relevance in the annotation process. I carefully reviewed the LLM outline, got the basic idea behind the concept, and annotated it based on personalization, skills, projects, aligning it with my actual academic and professional experience. I have used drafts as structured starting points and made generic revisions-\npersonalization - I have updated my professional experience and added real-time projects I have been working on to highlight my skills and experiences. I have listed projects such as AWS static site deployments, customer churn analysis, and work on under academic coursework.I have added other business projects, such as POpIN and an unsweetened organic marketing project, to highlight my skills on real-time projects. I have worked with different clients.\nContextual Editing - Some of the LLM phrases were edited for clarity and professionalism to simplify my tone. I have tried to edit in formal and more authentic, engaging phrases.\nVisual and Structural Changes - I have added sections like skills with different highlights of my technical and soft skills.I have removed unauthentic certifications listed in examples and only placed the authentic certifications completed by me.I have also included a logo of my own design created using Canva for maki ng it look visually appealing. Also, I have styled the CSS page using the styling formatting and dark-themed style for a bold look.\nAccuracy Checks- I have only included the experience, skills or certification which I hold and haven’t included LLM-generated inputs."
   },
   {
     "objectID": "Appendix.html#please-find-the-link-to-the-portfolio-posted-on-github-below--",
@@ -35,11 +35,144 @@
     "text": "Please find the link to the portfolio posted on GitHub below -\n\nhttps://shilpi0786.github.io/Shilpi0786/"
   },
   {
-    "objectID": "Appendix.html#one-page-mba-student-portfolio-outline-by-llm",
-    "href": "Appendix.html#one-page-mba-student-portfolio-outline-by-llm",
+    "objectID": "Appendix.html#new-draft-section-outlines-llm-generated",
+    "href": "Appendix.html#new-draft-section-outlines-llm-generated",
     "title": "Appendix",
-    "section": "One-Page MBA Student Portfolio Outline by LLM",
-    "text": "One-Page MBA Student Portfolio Outline by LLM\n\nHeader\n\nName\nMBA Program & School Name\nContact Info (Email, LinkedIn, Phone, optional website or portfolio link)\n\nProfessional Summary (2–3 lines) Concise elevator pitch including industry experience, career focus, and unique strengths.\nEducation MBA Program (Include expected graduation date)\n\nRelevant coursework, GPA (if strong), academic honors\n\nKey Skills Business strategy, data analysis, financial modeling, project management, etc.\n\nSoft skills: leadership, communication, cross-functional collaboration\n\nExperience Title, Organization, Location, Dates\n\n2–3 bullet points focused on achievements and quantifiable results\nInclude pre-MBA or internship experience if relevant\n\nProjects / Leadership / Certifications Consulting projects, case competitions, club leadership, or certifications (e.g., Lean Six Sigma, AWS Certified)\nCareer Interests / Goals (Optional) 1 line on post-MBA goals or target industries/roles"
+    "section": "📄 New Draft Section Outlines (LLM-Generated)",
+    "text": "📄 New Draft Section Outlines (LLM-Generated)\n\nHome / About Me (index.qmd) markdown Copy Edit — title: “About Me” format: html —"
+  },
+  {
+    "objectID": "Appendix.html#career-objectives",
+    "href": "Appendix.html#career-objectives",
+    "title": "Appendix",
+    "section": "🎯 Career Objectives",
+    "text": "🎯 Career Objectives\n\nLeverage technology to enhance event collaboration and customer engagement.\nDrive marketing strategy through data-driven insights.\nFoster inclusive leadership in international business contexts."
+  },
+  {
+    "objectID": "Appendix.html#quick-facts",
+    "href": "Appendix.html#quick-facts",
+    "title": "Appendix",
+    "section": "📸 Quick Facts",
+    "text": "📸 Quick Facts\n\n📍 Based in Vancouver, Canada\n☕ Avid cook & cat enthusiast\n📚 Passionate about business innovation\n\n\nResume / CV (resume.qmd) markdown Copy Edit — title: “Resume” format: html —"
+  },
+  {
+    "objectID": "Appendix.html#education",
+    "href": "Appendix.html#education",
+    "title": "Appendix",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nUniversity Canada West\nMaster of Business Administration\nExpected: 2025"
+  },
+  {
+    "objectID": "Appendix.html#experience",
+    "href": "Appendix.html#experience",
+    "title": "Appendix",
+    "section": "🧑‍💼 Experience",
+    "text": "🧑‍💼 Experience\nProject Assistant, [Company Name], 2023\n- Coordinated interdepartmental communications\n- Supported process optimization efforts\nPopIn – Capstone Project\n- Designed host engagement strategy using SWOT & PESTELE frameworks\n- Recommended marketing and data-driven growth initiatives"
+  },
+  {
+    "objectID": "Appendix.html#skills",
+    "href": "Appendix.html#skills",
+    "title": "Appendix",
+    "section": "🛠️ Skills",
+    "text": "🛠️ Skills\n\nProject Management\n\nMarket Research\n\nStrategic Analysis (SWOT, PESTEL)\n\nCross-Cultural Communication"
+  },
+  {
+    "objectID": "Appendix.html#certifications",
+    "href": "Appendix.html#certifications",
+    "title": "Appendix",
+    "section": "📜 Certifications",
+    "text": "📜 Certifications\n\nGoogle Data Analytics (Coursera)\n\nHubSpot Inbound Marketing\n\n\nProjects & Case Studies (projects.qmd) markdown Copy Edit — title: “Projects & Case Studies” format: html —"
+  },
+  {
+    "objectID": "Appendix.html#sustainable-fashion-market-entry",
+    "href": "Appendix.html#sustainable-fashion-market-entry",
+    "title": "Appendix",
+    "section": "🛍️ Sustainable Fashion Market Entry",
+    "text": "🛍️ Sustainable Fashion Market Entry\nType: Strategy Simulation | Role: Consultant | Date: Winter 2025\n- Conducted PESTEL & competitor analysis\n- Recommended entry via e-commerce & partnerships\n- Created phased rollout with digital marketing focus"
+  },
+  {
+    "objectID": "Appendix.html#subscription-app-retention-analytics",
+    "href": "Appendix.html#subscription-app-retention-analytics",
+    "title": "Appendix",
+    "section": "📊 Subscription App Retention Analytics",
+    "text": "📊 Subscription App Retention Analytics\nType: Data Analytics Project | Role: Lead Analyst | Date: Fall 2024\n- Analyzed churn & retention trends in Power BI\n- Identified UX & pricing improvement opportunities\n- Created visual dashboard and insights report"
+  },
+  {
+    "objectID": "Appendix.html#organizational-diagnosis-mba-course",
+    "href": "Appendix.html#organizational-diagnosis-mba-course",
+    "title": "Appendix",
+    "section": "🧩 Organizational Diagnosis (MBA Course)",
+    "text": "🧩 Organizational Diagnosis (MBA Course)\nPerformed a detailed internal/external environment analysis: - Applied academic frameworks (APA citations included)\n- Made strategic recommendations to support scalability\n\nSkills & Certifications (skills.qmd) markdown Copy Edit — title: “Skills & Certifications” format: html —"
+  },
+  {
+    "objectID": "Appendix.html#business-strategy",
+    "href": "Appendix.html#business-strategy",
+    "title": "Appendix",
+    "section": "🧩 Business Strategy",
+    "text": "🧩 Business Strategy\n\nSWOT, PESTEL, Porter’s 5 Forces\n\nOrganizational Diagnosis & Market Entry Plans"
+  },
+  {
+    "objectID": "Appendix.html#marketing-analytics",
+    "href": "Appendix.html#marketing-analytics",
+    "title": "Appendix",
+    "section": "📈 Marketing & Analytics",
+    "text": "📈 Marketing & Analytics\n\nCustomer Journey Mapping\n\nPower BI, Excel, Google Analytics\n\nContent & Campaign Strategy"
+  },
+  {
+    "objectID": "Appendix.html#communication",
+    "href": "Appendix.html#communication",
+    "title": "Appendix",
+    "section": "🗣️ Communication",
+    "text": "🗣️ Communication\n\nProfessional Writing & Presentations\n\nTeam Collaboration & Coordination\n\nCross-Cultural Communication"
+  },
+  {
+    "objectID": "Appendix.html#email",
+    "href": "Appendix.html#email",
+    "title": "Appendix",
+    "section": "📧 Email",
+    "text": "📧 Email\nmengzhe.dai@myucwest.ca"
+  },
+  {
+    "objectID": "Appendix.html#phone-whatsapp",
+    "href": "Appendix.html#phone-whatsapp",
+    "title": "Appendix",
+    "section": "📱 Phone & WhatsApp",
+    "text": "📱 Phone & WhatsApp\n+1 (778) 990-2716"
+  },
+  {
+    "objectID": "Appendix.html#linkedin",
+    "href": "Appendix.html#linkedin",
+    "title": "Appendix",
+    "section": "🌐 LinkedIn",
+    "text": "🌐 LinkedIn\nlinkedin.com/in/Nelson"
+  },
+  {
+    "objectID": "Appendix.html#download-resume",
+    "href": "Appendix.html#download-resume",
+    "title": "Appendix",
+    "section": "🖇️ Download Resume",
+    "text": "🖇️ Download Resume\nDownload Resume (PDF)\n\nFeel free to reach out regarding collaboration, project opportunities, or just to connect!\n\n\nLeadership & Community Involvement (Optional) (leadership.qmd) markdown Copy Edit — title: “Leadership & Community” format: html —"
+  },
+  {
+    "objectID": "Appendix.html#project-assistant-role-cross-functional-leadership",
+    "href": "Appendix.html#project-assistant-role-cross-functional-leadership",
+    "title": "Appendix",
+    "section": "💼 Project Assistant Role – Cross-Functional Leadership",
+    "text": "💼 Project Assistant Role – Cross-Functional Leadership\n\nLiaised with marketing, operations, and logistics to streamline efforts\n\nChampioned collaborative tools to improve internal coordination"
+  },
+  {
+    "objectID": "Appendix.html#community-engagement",
+    "href": "Appendix.html#community-engagement",
+    "title": "Appendix",
+    "section": "🧡 Community Engagement",
+    "text": "🧡 Community Engagement\n\nOrganized events for international student integration\n\nVolunteered for local food bank initiatives in Vancouver\n\n\n\n“Leadership is not about a title or designation. It’s about impact, influence, and inspiration.” – Robin Sharma"
+  },
+  {
+    "objectID": "Appendix.html#breif-comment-on-portfolio-sources-and-ideas",
+    "href": "Appendix.html#breif-comment-on-portfolio-sources-and-ideas",
+    "title": "Appendix",
+    "section": "Breif Comment on Portfolio sources and ideas",
+    "text": "Breif Comment on Portfolio sources and ideas\nThe LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest."
   },
   {
     "objectID": "Appendix.html#sample-one-page-mba-student-portfolio-text-only",
@@ -56,8 +189,8 @@
     "text": "Professional Summary\nResults-driven MBA candidate with 7+ years of experience in network security at Fortune 500 firms. Passionate about combining business acumen with cloud technology to deliver scalable, secure enterprise solutions."
   },
   {
-    "objectID": "Appendix.html#education",
-    "href": "Appendix.html#education",
+    "objectID": "Appendix.html#education-1",
+    "href": "Appendix.html#education-1",
     "title": "Appendix",
     "section": "Education",
     "text": "Education\nSchulich School of Business, York University — Toronto, ON Master of Business Administration (MBA) | Expected: August 2025\nFocus: Technology Management & Strategy\nRelevant Coursework: Strategic Management, Cloud Computing, Data Analytics\nDean’s List (2024)"
@@ -168,62 +301,6 @@
     "text": "Model Performance Summary\nAfter preprocessing and training both models on the telecom dataset, the following results were observed:\n\nLogistic Regression Accuracy: 86.98%\n\n\nK-Nearest Neighbors (K=5) Accuracy: 93.17%\nOptimal K for KNN: 2 yielded the highest accuracy among the tested values (1–20).\nThese results indicate that KNN outperformed Logistic Regression in terms of predictive accuracy, making it the stronger model for identifying churn risk in this dataset."
   },
   {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "I’d love to hear from you! Whether it’s a question, collaboration opportunity, or feedback — feel free to reach out through any of the channels below.\n\n\n\n+1 (778) 990-2716\n\n\n\n\nkr.shilpi21@gmail.com\n\n\n\n\nConnect with me on LinkedIn\n\n\n\n\nVisit my Portfolio\n\n\n\n\n20686 , Eastleigh Crescent , Langley , V3A0M4 , BC.\n\n\n\n\n\n Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
-  },
-  {
-    "objectID": "Contact.html#phone-whatsapp",
-    "href": "Contact.html#phone-whatsapp",
-    "title": "Contact Me",
-    "section": "",
-    "text": "+1 (778) 990-2716"
-  },
-  {
-    "objectID": "Contact.html#email",
-    "href": "Contact.html#email",
-    "title": "Contact Me",
-    "section": "",
-    "text": "kr.shilpi21@gmail.com"
-  },
-  {
-    "objectID": "Contact.html#linkedin",
-    "href": "Contact.html#linkedin",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Connect with me on LinkedIn"
-  },
-  {
-    "objectID": "Contact.html#portfolio",
-    "href": "Contact.html#portfolio",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Visit my Portfolio"
-  },
-  {
-    "objectID": "Contact.html#location",
-    "href": "Contact.html#location",
-    "title": "Contact Me",
-    "section": "",
-    "text": "20686 , Eastleigh Crescent , Langley , V3A0M4 , BC."
-  },
-  {
-    "objectID": "Contact.html#contact-me-1",
-    "href": "Contact.html#contact-me-1",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
-  },
-  {
-    "objectID": "sss.html",
-    "href": "sss.html",
-    "title": "Resume | Shilpi Kumari",
-    "section": "",
-    "text": "Hi, I’m Shilpi Kumari\n\n\nCloud Engineer | Network Analyst | MBA Candidate\n\n\n\n\n\n🎓 Education\n\n\n\nMBA – University Canada West (Expected June 2025)\n\n\nBCA – Patna University\n\n\n\n\n\n\n🧠 Skills\n\n\n&lt;div&gt;\n  &lt;h3&gt;Cloud & Networking&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;AWS, EC2, Lambda&lt;/li&gt;\n    &lt;li&gt;Cisco, Juniper, Meraki&lt;/li&gt;\n    &lt;li&gt;Switching & Routing (OSPF, BGP, EIGRP)&lt;/li&gt;\n    &lt;li&gt;Firewalls: Fortigate, Palo-Alto&lt;/li&gt;\n    &lt;li&gt;Nexus Switches 5500/7700&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Tools & Soft Skills&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;Python, SQL, Linux, Tableau, ML&lt;/li&gt;\n    &lt;li&gt;Project Management&lt;/li&gt;\n    &lt;li&gt;Problem Solving & Communication&lt;/li&gt;\n    &lt;li&gt;Multitasking & Team Collaboration&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n\n\n\n📜 Certifications\n\n\n\nCCNA – Cisco Certified Network Associate\n\n\nCisco Meraki Black Belt\n\n\nAWS Cloud Practitioner\n\n\nDMI – Digital Marketing Institute\n\n\n\n\n\n📄 Download Resume (PDF)\n\n\n\n\nConnect: LinkedIn | Instagram\n\n\n© 2025 Shilpi Kumari | All Rights Reserved"
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -278,6 +355,69 @@
     "title": "Resume",
     "section": "",
     "text": "-Volunteer Coordinator, Local Community Center - Assisted with event planning and community outreach to support local engagement."
+  },
+  {
+    "objectID": "sss.html",
+    "href": "sss.html",
+    "title": "Resume | Shilpi Kumari",
+    "section": "",
+    "text": "Hi, I’m Shilpi Kumari\n\n\nCloud Engineer | Network Analyst | MBA Candidate\n\n\n\n\n\n🎓 Education\n\n\n\nMBA – University Canada West (Expected June 2025)\n\n\nBCA – Patna University\n\n\n\n\n\n\n🧠 Skills\n\n\n&lt;div&gt;\n  &lt;h3&gt;Cloud & Networking&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;AWS, EC2, Lambda&lt;/li&gt;\n    &lt;li&gt;Cisco, Juniper, Meraki&lt;/li&gt;\n    &lt;li&gt;Switching & Routing (OSPF, BGP, EIGRP)&lt;/li&gt;\n    &lt;li&gt;Firewalls: Fortigate, Palo-Alto&lt;/li&gt;\n    &lt;li&gt;Nexus Switches 5500/7700&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n  &lt;h3&gt;Tools & Soft Skills&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;Python, SQL, Linux, Tableau, ML&lt;/li&gt;\n    &lt;li&gt;Project Management&lt;/li&gt;\n    &lt;li&gt;Problem Solving & Communication&lt;/li&gt;\n    &lt;li&gt;Multitasking & Team Collaboration&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n\n\n\n📜 Certifications\n\n\n\nCCNA – Cisco Certified Network Associate\n\n\nCisco Meraki Black Belt\n\n\nAWS Cloud Practitioner\n\n\nDMI – Digital Marketing Institute\n\n\n\n\n\n📄 Download Resume (PDF)\n\n\n\n\nConnect: LinkedIn | Instagram\n\n\n© 2025 Shilpi Kumari | All Rights Reserved"
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I’d love to hear from you! Whether it’s a question, collaboration opportunity, or feedback — feel free to reach out through any of the channels below.\n\n\n\n+1 (778) 990-2716\n\n\n\n\nkr.shilpi21@gmail.com\n\n\n\n\nConnect with me on LinkedIn\n\n\n\n\nVisit my Portfolio\n\n\n\n\n20686 , Eastleigh Crescent , Langley , V3A0M4 , BC.\n\n\n\n\n\n Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
+  },
+  {
+    "objectID": "Contact.html#phone-whatsapp",
+    "href": "Contact.html#phone-whatsapp",
+    "title": "Contact Me",
+    "section": "",
+    "text": "+1 (778) 990-2716"
+  },
+  {
+    "objectID": "Contact.html#email",
+    "href": "Contact.html#email",
+    "title": "Contact Me",
+    "section": "",
+    "text": "kr.shilpi21@gmail.com"
+  },
+  {
+    "objectID": "Contact.html#linkedin",
+    "href": "Contact.html#linkedin",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Connect with me on LinkedIn"
+  },
+  {
+    "objectID": "Contact.html#portfolio",
+    "href": "Contact.html#portfolio",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Visit my Portfolio"
+  },
+  {
+    "objectID": "Contact.html#location",
+    "href": "Contact.html#location",
+    "title": "Contact Me",
+    "section": "",
+    "text": "20686 , Eastleigh Crescent , Langley , V3A0M4 , BC."
+  },
+  {
+    "objectID": "Contact.html#contact-me-1",
+    "href": "Contact.html#contact-me-1",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Your Email:  \n Your Message: \n\n\nSend\n\n\n\n🔒 Your privacy is important. Your contact info will never be shared."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Annoation on LLM Output\nAppendix -\nI have ensured authenticity and relevance in the annotation process. I carefully reviewed the LLM outline, got the basic idea behind the concept, and annotated it based on personalization, skills, projects, aligning it with my actual academic and professional experience. I have used drafts as structured starting points and made generic revisions-\npersonalization - I have updated my professional experience and added real-time projects I have been working on to highlight my skills and experiences. I have listed projects such as AWS static site deployments, customer churn analysis, and work on under academic coursework.I have added other business projects, such as POpIN and an unsweetened organic marketing project, to highlight my skills on real-time projects. I have worked with different clients.\nContextual Editing - Some of the LLM phrases were edited for clarity and professionalism to simplify my tone. I have tried to edit in formal and more authentic, engaging phrases.\nVisual and Structural Changes - I have added sections like skills with different highlights of my technical and soft skills.I have removed unauthentic certifications listed in examples and only placed the authentic certifications completed by me.I have also included a logo of my own design created using Canva for maki ng it look visually appealing. Also, I have styled the CSS page using the styling formatting and dark-themed style for a bold look.\nAccuracy Checks- I have only included the experience, skills or certification which I hold and haven’t included LLM-generated inputs.\n\n\nReflection\nThroughout the process of developing my MBA portfolio website, my use of large language models (LLMs) such as ChatGPT evolved from simple content generation to a more conceptual format for the portfolio. Initially, I relied on the model to brainstorm ideas and draft text for common pages like the “About” and “Projects” sections.\nThese early drafts were useful for establishing a clear structure and format, but they often included basic content, generic phrasing, and assumptions that needed to be changed. The project progressed, and I shifted from using the LLM as a content creator to treating it more like a web designer, developing a website and hosting portfolio on GitHub. I began prompting the model for specific tasks, such as rephrasing bullet points to make them more concise, rewriting project styles using CSS to make them more modern and visually appealing, and trying to fix issues and errors I faced in configuring the styles in markdown. This iterative approach allowed me to maintain full control over the authenticity of my content while benefiting from the speed and fluency of the model’s outputs.\nOne of the most valuable aspects of using an LLM was the ability to brainstorm alternate layouts or formatting ideas and redesign my entire portfolio on how I want it to be crafted. For example, I was able to insert contact forms, logos, and my project links in different formats for my “Projects & Case Studies” section, categorized in technical and business sections, by giving a brief description and listing the tools used to make it look more engaging. This allowed me to experiment with usability and visual hierarchy while staying focused on the message I wanted to communicate.\nEnsuring accuracy was a critical part of the process. I fact-checked every data, tool, date, and description provided by the model and replaced any generic placeholders with details from my actual experiences, such as the PopIn Host Strategy project and the Unsweetened Juice Launch Plan and more real-life projects. I also annotated the LLM-generated drafts to indicate where changes were made for transparency, as required in the appendix.\nThis experience deepened my understanding of how to ethically and effectively collaborate with AI tools. Rather than passively accepting output, I engaged critically with it—filtering, refining, and aligning it with my voice, values, and academic requirements. Ultimately, the integration of LLMs enhanced both the quality and efficiency of my portfolio, while allowing me to focus on meaningful personalization and presentation."
   },
   {
     "objectID": "Projects.html",

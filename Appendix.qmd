@@ -14,17 +14,223 @@ University of Canada West
 - https://ankitpakhale.netlify.app/portfolio
 - https://a-coderr.github.io/portfolio-website/#home
 
-## Breif Comment on Portfolio sources and ideas 
+## Annoated LLM Response Comment 
 
-The LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest.
- 
+
+I have ensured authenticity and relevance in the annotation process. I carefully reviewed the LLM outline, got the basic idea behind the concept, and annotated it based on personalization, skills, projects, aligning it with my actual academic and professional experience. I have used drafts as structured starting points and made generic revisions-
+
+personalization - I have updated my professional experience and added real-time projects I have been working on to highlight my skills and experiences. I have listed projects such as AWS static site deployments, customer churn analysis, and work on under academic coursework.I have added other business projects, such as POpIN and an unsweetened organic marketing project, to highlight my skills on real-time projects. I have worked with different clients.
+
+Contextual Editing - Some of the LLM phrases were edited for clarity and professionalism to simplify my tone. I have tried to edit in formal and more authentic, engaging phrases. 
+
+Visual and Structural Changes - I have added sections like skills with different highlights of my technical and soft skills.I have removed unauthentic certifications listed in examples and only placed the authentic certifications completed by me.I have also included a logo of my own design created using Canva for maki	ng it look visually appealing. Also, I have styled the CSS page using the styling formatting and dark-themed style for a bold look.	
+
+Accuracy Checks- I have only included the experience, skills or certification which I hold and haven’t included LLM-generated inputs.
+
 
 
 ## Please find the link to the portfolio posted on GitHub below -
 
 - https://shilpi0786.github.io/Shilpi0786/
  
-## One-Page MBA Student Portfolio Outline by LLM
+
+
+## 📄 New Draft Section Outlines (LLM-Generated)
+
+
+1. Home / About Me (index.qmd)
+markdown
+Copy
+Edit
+---
+title: "About Me"
+format: html
+---
+
+# 👋 Welcome!
+
+Hello! My name is **NELSON **, an MBA candidate at the University Canada West, passionate about strategic management, marketing innovation, and collaborative business solutions.
+
+With a background in project coordination and cross-functional teamwork, I thrive in dynamic environments. I’m currently working with **PopIn** to develop a host onboarding and revenue optimization strategy.
+
+---
+
+## 🎯 Career Objectives
+
+- Leverage technology to enhance event collaboration and customer engagement.
+- Drive marketing strategy through data-driven insights.
+- Foster inclusive leadership in international business contexts.
+
+---
+
+## 📸 Quick Facts
+- 📍 Based in Vancouver, Canada
+- ☕ Avid cook & cat enthusiast
+- 📚 Passionate about business innovation
+
+
+2. Resume / CV (resume.qmd)
+markdown
+Copy
+Edit
+---
+title: "Resume"
+format: html
+---
+
+# 📄 Resume / CV
+
+Download PDF: [Nelson.pdf](assets/Nelso_Resume.pdf)
+
+## 🎓 Education
+
+**University Canada West**  
+*Master of Business Administration*  
+_Expected: 2025_
+
+## 🧑‍💼 Experience
+
+**Project Assistant**, [Company Name], 2023  
+- Coordinated interdepartmental communications  
+- Supported process optimization efforts
+
+**PopIn – Capstone Project**  
+- Designed host engagement strategy using SWOT & PESTELE frameworks  
+- Recommended marketing and data-driven growth initiatives  
+
+## 🛠️ Skills
+- Project Management  
+- Market Research  
+- Strategic Analysis (SWOT, PESTEL)  
+- Cross-Cultural Communication
+
+## 📜 Certifications
+- Google Data Analytics (Coursera)  
+- HubSpot Inbound Marketing
+
+3. Projects & Case Studies (projects.qmd)
+markdown
+Copy
+Edit
+---
+title: "Projects & Case Studies"
+format: html
+---
+
+# 🚀 Featured Projects
+
+## 🛍️ Sustainable Fashion Market Entry  
+**Type:** Strategy Simulation | **Role:** Consultant | **Date:** Winter 2025  
+- Conducted PESTEL & competitor analysis  
+- Recommended entry via e-commerce & partnerships  
+- Created phased rollout with digital marketing focus 
+
+
+---
+
+## 📊 Subscription App Retention Analytics  
+**Type:** Data Analytics Project | **Role:** Lead Analyst | **Date:** Fall 2024  
+- Analyzed churn & retention trends in Power BI  
+- Identified UX & pricing improvement opportunities  
+- Created visual dashboard and insights report 
+
+---
+
+## 🧩 Organizational Diagnosis (MBA Course)
+
+Performed a detailed internal/external environment analysis:
+- Applied academic frameworks (APA citations included)  
+- Made strategic recommendations to support scalability
+
+4. Skills & Certifications (skills.qmd)
+markdown
+Copy
+Edit
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# 🧠 Core Skills
+
+## 🧩 Business Strategy
+- SWOT, PESTEL, Porter’s 5 Forces  
+- Organizational Diagnosis & Market Entry Plans  
+
+## 📈 Marketing & Analytics
+- Customer Journey Mapping  
+- Power BI, Excel, Google Analytics  
+- Content & Campaign Strategy  
+
+## 🗣️ Communication
+- Professional Writing & Presentations  
+- Team Collaboration & Coordination  
+- Cross-Cultural Communication
+
+---
+
+# 📜 Certifications
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| Google Data Analytics | Coursera | 2024 |
+| Inbound Marketing | HubSpot | 2024 |
+| Agile Project Management | edX | 2023 |
+
+5. Contact (contact.qmd)
+markdown
+Copy
+Edit
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Get in Touch
+
+## 📧 Email  
+mengzhe.dai@myucwest.ca
+
+## 📱 Phone & WhatsApp  
++1 (778) 990-2716
+
+## 🌐 LinkedIn  
+[linkedin.com/in/Nelson](https://linkedin.com/in/Nelson)
+
+## 🖇️ Download Resume  
+[Download Resume (PDF)](assets/Nelson_Resume.pdf)
+
+> *Feel free to reach out regarding collaboration, project opportunities, or just to connect!*
+
+6. Leadership & Community Involvement (Optional) (leadership.qmd)
+markdown
+Copy
+Edit
+---
+title: "Leadership & Community"
+format: html
+---
+
+# 🌍 Leadership & Volunteering
+
+## 💼 Project Assistant Role – Cross-Functional Leadership  
+- Liaised with marketing, operations, and logistics to streamline efforts  
+- Championed collaborative tools to improve internal coordination  
+
+## 🧡 Community Engagement  
+- Organized events for international student integration  
+- Volunteered for local food bank initiatives in Vancouver  
+
+---
+
+> *“Leadership is not about a title or designation. It’s about impact, influence, and inspiration.” – Robin Sharma*
+
+## Breif Comment on Portfolio sources and ideas 
+
+The LLM-generated response provided a general and foundational structure for portfolio building. Drawing from it, I emphasized my education, skills, and experiences rooted in my personal and professional background. I also expanded the portfolio by including dedicated sections on Projects and Certifications, highlighting my expertise and ongoing skill development. These additions determine the depth of my experience and also position my portfolio as a strong and competitive tool in the job market, helping it stand out from the rest.
+ 
+
+# One-Page MBA Student Portfolio Outline by LLM
 
 1. Header
 
